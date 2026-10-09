@@ -1,4 +1,4 @@
-# PGC Lab Evaluation 1 - Team 10: CPU vs GPU Data Processing
+# PGC Lab Evaluation 1 - Theam 10: CPU vs GPU Data Processing
 
 **Parallel models:** OpenMP + CUDA
 
